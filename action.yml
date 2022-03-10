@@ -1,5 +1,6 @@
 name: 'Google API Linter'
 description: 'Run Google's API linter in a GitHub action'
+author: "Sam Gammon <samuel.gammon@gmail.com>"
 inputs: {}
 outputs: {}
 runs:
