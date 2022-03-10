@@ -1,0 +1,7 @@
+name: 'Google API Linter'
+description: 'Run Google's API linter in a GitHub action'
+inputs: {}
+outputs: {}
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
